@@ -7,7 +7,7 @@ If you wish to recreate my workbooks using the jupyter notebook files, please vi
 ## Report:
 For this analysis I aggregated data found in the Citi Bike Trip History Logs to find two unexpected phenomena. I chose a data set between January 2022 and now, for both NYC and Jersey City. I combined several files in Pandas, and added a total trip duration column for my visualizations. Unfortunately the combined cities dataset caused some lag in Tableau, so I produced two workbooks, one for Jersey City and one for NYC that you can choose between in my profile. They compare the same elements and it’s interesting to see the differences between each city if you want to look at both.
 
-I designed two dashboards with 3 visualizations for each discovered phenomenon (6 total each), then combined them ito a story for each city.
+I designed two dashboards with 3 visualizations for each discovered phenomenon (6 total each), then combined them into a story for each city.
 
 In the first dashboard, I explored how the ridership changes with the seasons as well as bike type and average ride time. I found it interesting that average ride time was higher for both rider types in the colder months. I attributed this to the fact that there are fewer riders in general during this time, and the folks who are riding in less than ideal weather are dedicated bikers who tend to travel everywhere by bike, including longer distances.
 
